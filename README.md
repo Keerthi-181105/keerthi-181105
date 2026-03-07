@@ -78,7 +78,6 @@
 <img src="https://img.icons8.com/color/48/git.png" height="40"/>
 <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>
 <img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/>
-<img src="https://img.icons8.com/color/48/jupyter.png" height="40"/>
 <img src="https://img.icons8.com/color/48/google-colab.png" height="40"/>
 
 </p>
@@ -88,14 +87,6 @@
 # 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/keerthiga_1811)
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=compact&theme=tokyonight)
 
 ---
 
