@@ -84,10 +84,4 @@
 
 ---
 
-# 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/keerthiga_1811)
-
----
-
 ⭐ Always interested in learning new technologies, building real-world projects, and exploring AI-driven solutions.
