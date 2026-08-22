@@ -13,7 +13,7 @@
 
 ## 🌐 Portfolio
 
-🔗 https://keerthi-181105.github.io/portfolio-keerthiga/
+🔗 https://keerthi-181105.github.io/portfolio-keerthi/
 
 ---
 
