@@ -69,7 +69,7 @@ const keerthiga = {
 
 ---
 
-## ◈ TECH STACK — VISUAL ICONS
+## ◈ TECH STACK 
 
 <div align="center">
 
