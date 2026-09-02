@@ -69,23 +69,46 @@ const keerthiga = {
 
 ---
 
-## ◈ TECH STACK 
+## ◈ TECH STACK — VISUAL ICONS
 
-<div align="center">
+# 💻 Programming Languages
 
-### 〔 Languages 〕
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp&theme=dark&perline=5)](https://skillicons.dev)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/rust-programming-language.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="40"/>
+</p>
 
-### 〔 Frameworks & Libraries 〕
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,angular,mongodb,tensorflow&theme=dark&perline=5)](https://skillicons.dev)
+---
 
-### 〔 Databases 〕
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=3)](https://skillicons.dev)
+# ⚙️ Frameworks & Libraries
 
-### 〔 Cloud & Tools 〕
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,jupyter&theme=dark&perline=5)](https://skillicons.dev)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/react-native.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" height="40"/>
+</p>
 
-</div>
+---
+
+# 🛠 Development Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" height="40"/>
+</p>
 
 ---
 
