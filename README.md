@@ -101,18 +101,11 @@ const keerthiga = {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=6" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)
 
-<img src="https://streak-stats.demolab.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=FFFFFF" width="60%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-181105&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff&hide_border=true)
 
 </div>
 
@@ -122,7 +115,7 @@ const keerthiga = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&custom_title=Keerthiga's%20Contribution%20Graph" width="95%"/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&theme=react-dark)
 
 </div>
 
