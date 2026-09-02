@@ -192,13 +192,7 @@ const keerthiga = {
 
 ---
 
-## ◈ 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Keerthi-181105/Keerthi-181105/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
 
 ## ◈ 🤝 CONNECT WITH ME
 
