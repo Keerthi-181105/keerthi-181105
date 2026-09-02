@@ -101,24 +101,18 @@ const keerthiga = {
 
 <div align="center">
 
-<!-- githubtrends.io — full dashboard card (contributions graph + languages + stats + commits) -->
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Keerthi-181105/overall?since=2024-01-01&lang_limit=6&theme=dark)](https://githubtrends.io)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-</div>
-
----
-
-## ◈ GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=FFFFFF" width="60%"/>
 
 </div>
 
@@ -128,8 +122,7 @@ const keerthiga = {
 
 <div align="center">
 
-<!-- Repo-level language breakdown card -->
-[![GitHub Trends Langs](https://api.githubtrends.io/user/svg/Keerthi-181105/repos?since=2024-01-01&theme=dark)](https://githubtrends.io)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&custom_title=Keerthiga's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
