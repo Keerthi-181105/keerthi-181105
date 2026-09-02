@@ -1,24 +1,30 @@
-<h1 align="center">👋 Hi, I'm Keerthiga C</h1>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              KEERTHIGA C — GitHub Profile README            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI+%26+Data+Science;React+%7C+TypeScript+%7C+Node.js;Building+Real-World+Web+Applications;Exploring+AI+%26+Data-Driven+Solutions;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Keerthi-181105">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/keerthiga-c-a998372b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://keerthi-181105.github.io/portfolio-keerthi/">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+```
+██╗  ██╗███████╗███████╗██████╗ ████████╗██╗  ██╗██╗ ██████╗  █████╗
+██║ ██╔╝██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝ ██╔══██╗
+█████╔╝ █████╗  █████╗  ██████╔╝   ██║   ███████║██║██║  ███╗███████║
+██╔═██╗ ██╔══╝  ██╔══╝  ██╔══██╗   ██║   ██╔══██║██║██║   ██║██╔══██║
+██║  ██╗███████╗███████╗██║  ██║   ██║   ██║  ██║██║╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keerthi-181105&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+things+that+actually+work+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthiga-c-a998372b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthi-181105)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthi-181105.github.io/portfolio-keerthi/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthigac@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Keerthi-181105&color=A78BFA&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -26,210 +32,120 @@
 
 ```javascript
 const keerthiga = {
-  name: "Keerthiga C",
-  degree: "B.Tech — Artificial Intelligence & Data Science",
-  college: "Rajalakshmi Institute of Technology, Chennai",
-  cgpa: "8.2",
+  name        : "Keerthiga C",
+  degree      : "B.Tech — Artificial Intelligence & Data Science",
+  college     : "Rajalakshmi Institute of Technology, Chennai",
+  cgpa        : "8.2",
+  location    : "India 🇮🇳",
 
-  role: "Full Stack Developer",
-
-  superPowers: [
-    "Full-Stack Development",
-    "React & TypeScript",
-    "Node.js & Express",
-    "Artificial Intelligence",
-    "Data Science",
-    "Problem Solving"
+  superPowers : [
+    "Full-Stack Web Development",
+    "Artificial Intelligence & ML",
+    "Data Science & Analytics",
+    "Building Scalable Web Apps",
   ],
 
-  currentlyBuilding: [
-    "Real-world web applications",
-    "AI-driven solutions",
-    "Scalable full-stack systems"
+  currentlyBuilding : [
+    "AI-powered real-world applications",
+    "Data-driven web solutions",
   ],
 
-  learning: [
-    "Advanced React",
-    "System Design",
-    "Cloud Technologies",
-    "AI & Machine Learning"
-  ],
-
-  openTo: "Internships · Collaborations · Open Source",
-
-  motto: "Build. Learn. Grow. 🚀"
+  openTo  : "Internships · Collabs · Open Source",
+  funFact : "I debug at midnight and it somehow makes sense 🫠",
+  motto   : "Build smart. Ship real.",
 };
 ```
 
 ---
 
-## ◈ 🌐 PORTFOLIO
-
-<p align="center">
-  <a href="https://keerthi-181105.github.io/portfolio-keerthi/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ◈ 💻 TECH STACK
+## ◈ TECH STACK — VISUAL ICONS
 
 ### 〔 Languages 〕
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,rust,javascript,typescript,html,css&theme=dark" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png" height="40" title="Python"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" title="Java"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" height="40" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" height="40" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" height="40" title="C"/>
+  <img src="https://img.icons8.com/color/48/rust-programming-language.png" height="40" title="Rust"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" height="40" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="40" title="CSS3"/>
 </p>
 
 ### 〔 Frameworks & Libraries 〕
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express&theme=dark" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/react-native.png" height="40" title="React"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" height="40" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" height="40" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" height="40" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" height="40" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" height="40" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" height="40" title="Matplotlib"/>
 </p>
 
-### 〔 Databases & Data Science 〕
+### 〔 Tools & Design 〕
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
-
-### 〔 Tools 〕
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman&theme=dark" />
-</p>
-
----
-
-## ◈ 🚀 FEATURED PROJECTS
-
-### 🎓 Smart Campus Event Management System
-
-> A full-stack platform for discovering, registering, and managing campus events.
-
-**Tech:** React · TypeScript · Tailwind CSS · Node.js · Prisma · PostgreSQL · Supabase
-
-**Features:**
-
-* 🎫 Event discovery & registration
-* 🪑 Real-time seat availability
-* 📅 Personal event calendar
-* 📱 QR-based event registration
-* 📊 Organizer analytics dashboard
-
----
-
-### 🏥 Smart Queue Management System
-
-> A real-time queue management platform designed to reduce waiting time and improve appointment management.
-
-**Tech:** React · Node.js · Express · MongoDB · Socket.io
-
-**Features:**
-
-* 📅 Remote appointment booking
-* 🔄 Real-time queue updates
-* 👨‍⚕️ Doctor dashboard
-* 👤 Patient dashboard
-* 📊 Admin analytics
-
----
-
-### 🚗 Fleet Vehicle Management System
-
-> An administrative web application for managing vehicle registrations and approval workflows.
-
-**Tech:** React · TypeScript · Node.js · Database
-
-**Features:**
-
-* 🔍 IMEI & date-range filtering
-* ✅ Approval / rejection workflow
-* 📊 Registration analytics
-* 🏢 Organization-based limits
-
----
-
-## ◈ 🧠 DSA & PROBLEM SOLVING
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/Keerthiga_C?theme=dark&font=Fira%20Code&border=0&radius=12" />
-  </a>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/git.png" height="40" title="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" height="40" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" height="40" title="Figma"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" height="40" title="Google Colab"/>
 </p>
 
 ---
 
-## ◈ 📊 GITHUB STATS
+## ◈ GITHUB STATS DEEP DIVE
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="165"/>
 
----
+<br/>
 
-## ◈ 📈 CONTRIBUTION GRAPH
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&radius=12" />
-</p>
+</div>
 
 ---
 
+## ◈ CONTRIBUTION GRAPH
 
+<div align="center">
 
-## ◈ 🤝 CONNECT WITH ME
+[![Keerthiga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/keerthiga-c-a998372b2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Keerthi-181105">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://keerthi-181105.github.io/portfolio-keerthi/">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-```text
-┌─ DEVELOPER'S MINDSET ───────────────────────┐
+## ◈ CONTRIBUTION SNAKE 🐍
 
-        Learn something new every day.
-        Build something meaningful.
-        Keep improving. 🚀
+<div align="center">
 
-└──────────────────────────────────────────────┘
+![Snake animation](https://github.com/Keerthi-181105/Keerthi-181105/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─ DEVELOPER'S LAW ────────────────────────────────────┐
+
+   Data without insight is just numbers.
+      Code without purpose is just noise.
+
+└──────────────────────────────────────────────────────┘
 ```
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
+⭐ *If something here inspired you, drop a star on a repo!*
 
-<p align="center">
-  <i>Building today. Learning every day. Growing continuously.</i>
-</p>
-```
+*Actively maintained — updated with every new milestone.*
 
+</div>
