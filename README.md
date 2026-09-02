@@ -69,7 +69,7 @@ const keerthiga = {
 
 ---
 
-## ◈ TECH STACK 
+## ◈ TECH STACK — VISUAL ICONS
 
 <div align="center">
 
@@ -120,7 +120,11 @@ const keerthiga = {
 
 </div>
 
+---
 
+<div align="center">
+
+```
 ┌─ DEVELOPER'S LAW ────────────────────────────┐
 
    Data without insight is just numbers.
