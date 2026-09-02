@@ -101,6 +101,17 @@ const keerthiga = {
 
 <div align="center">
 
+<!-- githubtrends.io — full dashboard card (contributions graph + languages + stats + commits) -->
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Keerthi-181105/overall?since=2024-01-01&lang_limit=6&theme=dark)](https://githubtrends.io)
+
+</div>
+
+---
+
+## ◈ GITHUB STATS
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="165"/>
@@ -117,7 +128,8 @@ const keerthiga = {
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/A78BFA/Keerthi-181105" alt="Keerthiga's GitHub Contribution Chart" width="100%"/>
+<!-- Repo-level language breakdown card -->
+[![GitHub Trends Langs](https://api.githubtrends.io/user/svg/Keerthi-181105/repos?since=2024-01-01&theme=dark)](https://githubtrends.io)
 
 </div>
 
