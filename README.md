@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              KEERTHIGA C — GitHub Profile README            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ```
@@ -13,16 +9,16 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+things+that+actually+work+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;B.Tech+in+AI+%26+Data+Science;Building+scalable+web+applications+%F0%9F%9A%80;Data-driven+solutions+for+real+problems+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%92%BC" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthiga-c-a998372b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthi-181105)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthi-181105.github.io/portfolio-keerthi/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthigac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthiga-c-a998372b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthi-181105)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthi-181105.github.io/portfolio-keerthi/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthigac@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Keerthi-181105&color=A78BFA&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Keerthi-181105&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,14 +26,17 @@
 
 ## ◈ WHO AM I
 
-```javascript
+<table>
+<tr>
+<td width="52%" valign="top">
+
+```typescript
 const keerthiga = {
   name        : "Keerthiga C",
-  degree      : "B.Tech — Artificial Intelligence & Data Science",
-  college     : "Rajalakshmi Institute of Technology, Chennai",
+  degree      : "B.Tech — AI & Data Science",
+  college     : "Rajalakshmi Institute of Technology",
   cgpa        : "8.2",
-  location    : "India 🇮🇳",
-  repositories: 14,
+  location    : "Chennai, India 🇮🇳",
 
   superPowers : [
     "Full-Stack Web Development",
@@ -47,54 +46,46 @@ const keerthiga = {
   ],
 
   currentlyBuilding : [
-    "AI-powered real-world applications",
-    "Data-driven web solutions",
+    "AI-powered applications",
+    "Data-driven solutions",
   ],
 
   openTo  : "Internships · Collabs · Open Source",
-  funFact : "I debug at midnight and it somehow makes sense 🫠",
+  funFact : "I debug at midnight 🫠",
   motto   : "Build smart. Ship real.",
 };
 ```
+
+</td>
+<td width="48%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_radius=12&rank_icon=github" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=Keerthi-181105&theme=github_dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ◈ TECH STACK — VISUAL ICONS
 
-### 〔 Languages 〕
+<div align="center">
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" height="40" title="Python"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" title="Java"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" height="40" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" height="40" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" height="40" title="C"/>
-  <img src="https://img.icons8.com/color/48/rust-programming-language.png" height="40" title="Rust"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" height="40" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" height="40" title="CSS3"/>
-</p>
+### 〔 Languages 〕
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp&theme=dark&perline=5)](https://skillicons.dev)
 
 ### 〔 Frameworks & Libraries 〕
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,angular,mongodb,tensorflow&theme=dark&perline=5)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/react-native.png" height="40" title="React"/>
-  <img src="https://img.icons8.com/color/48/angularjs.png" height="40" title="Angular"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" height="40" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" height="40" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" height="40" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" height="40" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/matplotlib.png" height="40" title="Matplotlib"/>
-</p>
+### 〔 Databases 〕
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark&perline=3)](https://skillicons.dev)
 
-### 〔 Tools & Design 〕
+### 〔 Cloud & Tools 〕
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,jupyter&theme=dark&perline=5)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/git.png" height="40" title="Git"/>
-  <img src="https://img.icons8.com/ios-filled/50/github.png" height="40" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" height="40" title="Figma"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" height="40" title="Google Colab"/>
-</p>
+</div>
 
 ---
 
@@ -102,21 +93,30 @@ const keerthiga = {
 
 <div align="center">
 
-### 📊 Stats & Contributions Overview
-
-![Stats Card](https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keerthi-181105&theme=github_dark" width="100%"/>
 
 <br/>
 
-### 📈 Language Breakdown
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&layout=donut)
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthi-181105&theme=github_dark" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keerthi-181105&theme=github_dark" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthi-181105&theme=github_dark" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keerthi-181105&theme=github_dark&utcOffset=5.5" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
-
-### 🔥 Contribution Streak
-
-![Streak Stats](https://streak-stats.demolab.com/?user=Keerthi-181105&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff&hide_border=true)
 
 </div>
 
@@ -126,74 +126,24 @@ const keerthiga = {
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&theme=react-dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## ◈ FEATURED REPOSITORIES 🚀
-
-<div align="center">
-
-### 💼 Highlighted Projects
-
-</div>
-
-#### 🎯 **Smart Campus Event Management System**
-> Full-stack application for managing and registering campus events
-- **Tech:** TypeScript, React, Node.js, MongoDB
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/-Smart-Campus-Event-Management-System-website-Techcora-)
-
-#### 🤖 **AI Revenue Agent**
-> Intelligent agent for revenue optimization and management
-- **Tech:** TypeScript, AI/ML, APIs
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/AI-Revenue-Agent)
-
-#### 📚 **Text Summarization using NLP**
-> Machine learning project for automatic text summarization
-- **Tech:** Python, NLP, Jupyter Notebook
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/Text-summarization-using-NLP)
-
-#### 📊 **Employee Turnover Prediction**
-> ML model predicting employee churn based on HR analytics data
-- **Tech:** Python, ML, Jupyter Notebook
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/employee-turn-over-prediction)
-
-#### 💰 **SaveSmart**
-> Personal finance tool for finding money-saving schemes
-- **Tech:** HTML, CSS, JavaScript
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/SaveSmart)
-
-#### 🍽️ **Smart Meal Prep Assistant**
-> AI-powered meal planning and preparation assistant
-- **Tech:** AI/ML, Full-Stack
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/Smart-Meal-Prep-Assistant)
-
-#### 📅 **Study Session Planner**
-> AWS PartyRock-powered AI study planning tool
-- **Tech:** AWS, AI, Web
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/Study-Session-Planner)
-
-#### 🎨 **Portfolio Website**
-> Personal portfolio showcasing projects and skills
-- **Tech:** HTML, CSS, JavaScript
-- **Link:** [→ View Repository](https://github.com/Keerthi-181105/portfolio-keerthiga)
 
 ---
 
 <div align="center">
 
 ```
-┌─ DEVELOPER'S LAW ────────────────────────────────────┐
+┌─ DEVELOPER'S LAW ────────────────────────────┐
 
    Data without insight is just numbers.
       Code without purpose is just noise.
 
-└──────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────┘
 ```
 
-⭐ *If something here inspired you, drop a star on a repo!*
+**⭐ If something here helped you, drop a star on a repo!**
 
 *Actively maintained — updated with every new milestone.*
 
