@@ -69,7 +69,7 @@ const keerthiga = {
 
 ---
 
-## ◈ TECH STACK — VISUAL ICONS
+## ◈ TECH STACK 
 
 <div align="center">
 
@@ -120,21 +120,7 @@ const keerthiga = {
 
 </div>
 
----
 
-## ◈ CONTRIBUTION GRAPH
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-```
 ┌─ DEVELOPER'S LAW ────────────────────────────┐
 
    Data without insight is just numbers.
