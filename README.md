@@ -37,6 +37,7 @@ const keerthiga = {
   college     : "Rajalakshmi Institute of Technology, Chennai",
   cgpa        : "8.2",
   location    : "India 🇮🇳",
+  repositories: 14,
 
   superPowers : [
     "Full-Stack Web Development",
@@ -101,11 +102,21 @@ const keerthiga = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)
+### 📊 Stats & Contributions Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&layout=compact)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-181105&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff&hide_border=true)
+<br/>
+
+### 📈 Language Breakdown
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthi-181105&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=a78bfa&text_color=ffffff&layout=donut)
+
+<br/>
+
+### 🔥 Contribution Streak
+
+![Streak Stats](https://streak-stats.demolab.com/?user=Keerthi-181105&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff&hide_border=true)
 
 </div>
 
@@ -118,6 +129,56 @@ const keerthiga = {
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&theme=react-dark)
 
 </div>
+
+---
+
+## ◈ FEATURED REPOSITORIES 🚀
+
+<div align="center">
+
+### 💼 Highlighted Projects
+
+</div>
+
+#### 🎯 **Smart Campus Event Management System**
+> Full-stack application for managing and registering campus events
+- **Tech:** TypeScript, React, Node.js, MongoDB
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/-Smart-Campus-Event-Management-System-website-Techcora-)
+
+#### 🤖 **AI Revenue Agent**
+> Intelligent agent for revenue optimization and management
+- **Tech:** TypeScript, AI/ML, APIs
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/AI-Revenue-Agent)
+
+#### 📚 **Text Summarization using NLP**
+> Machine learning project for automatic text summarization
+- **Tech:** Python, NLP, Jupyter Notebook
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/Text-summarization-using-NLP)
+
+#### 📊 **Employee Turnover Prediction**
+> ML model predicting employee churn based on HR analytics data
+- **Tech:** Python, ML, Jupyter Notebook
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/employee-turn-over-prediction)
+
+#### 💰 **SaveSmart**
+> Personal finance tool for finding money-saving schemes
+- **Tech:** HTML, CSS, JavaScript
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/SaveSmart)
+
+#### 🍽️ **Smart Meal Prep Assistant**
+> AI-powered meal planning and preparation assistant
+- **Tech:** AI/ML, Full-Stack
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/Smart-Meal-Prep-Assistant)
+
+#### 📅 **Study Session Planner**
+> AWS PartyRock-powered AI study planning tool
+- **Tech:** AWS, AI, Web
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/Study-Session-Planner)
+
+#### 🎨 **Portfolio Website**
+> Personal portfolio showcasing projects and skills
+- **Tech:** HTML, CSS, JavaScript
+- **Link:** [→ View Repository](https://github.com/Keerthi-181105/portfolio-keerthiga)
 
 ---
 
