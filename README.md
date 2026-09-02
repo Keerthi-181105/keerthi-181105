@@ -107,7 +107,7 @@ const keerthiga = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Keerthi-181105&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
 </div>
 
@@ -117,17 +117,7 @@ const keerthiga = {
 
 <div align="center">
 
-[![Keerthiga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keerthi-181105&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ◈ CONTRIBUTION SNAKE 🐍
-
-<div align="center">
-
-![Snake animation](https://github.com/Keerthi-181105/Keerthi-181105/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://ghchart.rshah.org/A78BFA/Keerthi-181105" alt="Keerthiga's GitHub Contribution Chart" width="100%"/>
 
 </div>
 
