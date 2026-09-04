@@ -35,7 +35,7 @@ const keerthiga = {
   degree      : "B.Tech — AI & Data Science",
   college     : "Rajalakshmi Institute of Technology",
   cgpa        : "8.2",
-  location    : "Chennai, India 🇮🇳",
+  location    : "Chennai, India ",
 
   superPowers : [
     "Full-Stack Web Development",
