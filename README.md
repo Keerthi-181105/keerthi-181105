@@ -34,7 +34,7 @@ const keerthiga = {
   name        : "Keerthiga C",
   degree      : "B.Tech — AI & Data Science",
   college     : "Rajalakshmi Institute of Technology",
-  cgpa        : "8.2",
+  cgpa        : "8.3",
   location    : "Chennai, India ",
 
   superPowers : [
