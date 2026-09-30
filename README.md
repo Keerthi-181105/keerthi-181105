@@ -129,13 +129,7 @@ const keerthiga = {
 </td>
 </tr>
 <tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthi-181105&theme=github_dark" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keerthi-181105&theme=github_dark&utcOffset=5.5" width="100%"/>
-</td>
-</tr>
+
 </table>
 
 <br/>
