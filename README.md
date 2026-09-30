@@ -18,6 +18,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthigac@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Keerthi-181105&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Keerthi-181105&style=flat-square&color=A78BFA)
 
 </div>
 
