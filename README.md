@@ -1,3 +1,5 @@
+# Hey there! 👋 I'm Keerthiga C
+
 <div align="center">
 
 ```
@@ -9,24 +11,25 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;B.Tech+in+AI+%26+Data+Science;Building+scalable+web+applications+%F0%9F%9A%80;Data-driven+solutions+for+real+problems+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%92%BC" alt="Typing SVG" />
+### Full-Stack Developer | AI & ML Enthusiast
+### B.Tech in AI & Data Science | Building Scalable Solutions 🚀
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthiga-c-a998372b2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthi-181105.github.io/portfolio-keerthi/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthigac@gmail.com)
-
+**Data-driven solutions for real problems 🤖 | Open to Internships & Collaborations 💼**
 
 </div>
 
 ---
 
-## ◈ WHO AM I
+## 🔗 Connect With Me
 
-<table>
-<tr>
-<td width="52%" valign="top">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthiga-c-a998372b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthi-181105.github.io/portfolio-keerthi/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthigac@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthi-181105)
+
+---
+
+## 👨‍💻 About Me
 
 ```typescript
 const keerthiga = {
@@ -34,122 +37,188 @@ const keerthiga = {
   degree      : "B.Tech — AI & Data Science",
   college     : "Rajalakshmi Institute of Technology",
   cgpa        : "8.3",
-  location    : "Chennai, India ",
+  location    : "Chennai, India 🇮🇳",
 
   superPowers : [
     "Full-Stack Web Development",
     "Artificial Intelligence & ML",
     "Data Science & Analytics",
-    "Building Scalable Web Apps",
+    "Building Scalable Web Apps"
   ],
 
   currentlyBuilding : [
     "AI-powered applications",
     "Data-driven solutions",
+    "Scalable backend systems"
   ],
 
-  openTo  : "Internships · Collabs · Open Source",
-  funFact : "I debug at midnight 🫠",
-  motto   : "Build smart. Ship real.",
+  openTo      : "Internships • Collaborations • Open Source",
+  funFact     : "I debug at midnight 🫠",
+  motto       : "Build smart. Ship real."
 };
 ```
 
-</td>
-<td width="48%" valign="top">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_radius=12&rank_icon=github" width="100%"/>
+## 🛠️ Tech Stack
 
-<img src="https://streak-stats.demolab.com?user=Keerthi-181105&theme=github_dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=12" width="100%"/>
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td>
-</tr>
-</table>
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ---
 
-## ◈ TECH STACK 
+## 🎯 Key Achievements
 
-# 💻 Programming Languages
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/rust-programming-language.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" height="40"/>
-</p>
+- **LeetCode:** 150+ problems solved
+- **SkillRack:** 500+ problems solved
+- **CGPA:** 8.3/10
+- **Total Contributions:** 127 last year
+- **Open Source:** Active contributor
 
 ---
 
-# ⚙️ Frameworks & Libraries
+## 📚 Experience
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/react-native.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/angularjs.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/matplotlib.png" height="40"/>
-</p>
+### Internships
 
----
+**Techcora Corporation** — Full Stack Developer  
+*October 2025 – January 2026*
+- Built scalable full-stack applications
+- Worked with modern web technologies
+- Collaborated with cross-functional teams
 
-# 🛠 Development Tools
+**Codsoft** — UI/UX Design  
+*May – June 2025*
+- Designed intuitive user interfaces
+- Created high-fidelity mockups in Figma
+- Implemented responsive design principles
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/github.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" height="40"/>
-</p>
+**Mahle Engine Components** — Engineering  
+*January – February 2025*
+- Analyzed engineering solutions
+- Contributed to technical documentation
 
 ---
 
-## ◈ GITHUB STATS DEEP DIVE
+## 🚀 Featured Projects
 
-<div align="center">
+### Healthcare Queue Management System
+A comprehensive system for managing patient queues in healthcare facilities
+- **Tech Stack:** React, Node.js, MongoDB, Express
+- **Features:** Real-time queue tracking, appointment scheduling, patient notifications
+- **Impact:** Reduced patient wait times by optimizing queue flow
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keerthi-181105&theme=github_dark" width="100%"/>
+### Smart Campus Event Management System
+Centralized platform for managing campus events and activities
+- **Tech Stack:** React, Spring Boot, MySQL, Angular
+- **Features:** Event discovery, registration, real-time updates, calendar integration
+- **Impact:** Streamlined event management for 500+ users
 
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthi-181105&theme=github_dark" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keerthi-181105&theme=github_dark" width="100%"/>
-</td>
-</tr>
-<tr>
-
-</table>
-
-<br/>
-
-</div>
+### SaveSmart
+Personal finance management and savings tracking application
+- **Tech Stack:** JavaScript, React, Node.js
+- **Features:** Expense tracking, budget planning, financial insights, goal setting
+- **Impact:** Helps users save and track finances effectively
 
 ---
 
-<div align="center">
+## 💡 What I Love
+
+✨ Building **scalable** and **maintainable** code  
+✨ Solving **complex** problems with **elegant** solutions  
+✨ Learning **emerging** technologies  
+✨ Collaborating with **talented** developers  
+✨ Contributing to **open source** projects  
+
+---
+
+## 🌟 My Dev Philosophy
 
 ```
 ┌─ DEVELOPER'S LAW ────────────────────────────┐
 
    Data without insight is just numbers.
       Code without purpose is just noise.
+   
+   Build with intention.
+   Ship with confidence.
 
 └──────────────────────────────────────────────┘
 ```
 
-**⭐ If something here helped you, drop a star on a repo!**
+---
+
+## 📊 GitHub Statistics
+
+- **Total Stars Earned:** 7
+- **Total Commits:** 127+ (last year)
+- **Total PRs:** 2
+- **Total Issues:** 0
+- **Repositories:** Check out my [GitHub profile](https://github.com/Keerthi-181105)
+
+---
+
+## 🎓 Education
+
+**B.Tech in Artificial Intelligence and Data Science**  
+Rajalakshmi Institute of Technology  
+*September 2023 – May 2027*  
+**CGPA:** 8.3/10
+
+---
+
+## 📞 Let's Connect!
+
+I'm always interested in:
+- 💼 Internship opportunities
+- 🤝 Collaboration projects
+- 📚 Learning and knowledge exchange
+- 🚀 Contributing to open source
+
+**Feel free to reach out!**
+
+- 📧 Email: [keerthigac@gmail.com](mailto:keerthigac@gmail.com)
+- 💼 LinkedIn: [Keerthiga C](https://www.linkedin.com/in/keerthiga-c-a998372b2/)
+- 🌐 Portfolio: [keerthi-181105.github.io](https://keerthi-181105.github.io/portfolio-keerthi/)
+- 💻 GitHub: [@Keerthi-181105](https://github.com/Keerthi-181105)
+
+---
+
+<div align="center">
+
+**⭐ If something here helped you, drop a star on one of my repos!**
 
 *Actively maintained — updated with every new milestone.*
+
+**Made with ❤️ by Keerthiga C**
 
 </div>
