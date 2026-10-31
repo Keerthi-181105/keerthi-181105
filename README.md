@@ -109,15 +109,15 @@ const keerthiga = {
 
 ---
 
-<h3>🏆 LeetCode Achievements</h3>
+<h2 align="center">🏆 LeetCode Achievements</h2>
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="110" alt="200 Days Badge">
-  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="110" alt="100 Days Badge">
-  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="110" alt="50 Days Badge">
-  <img src="https://assets.leetcode.com/static_assets/marketing/9.gif" width="110" alt="LeetCode Badge">
-</p>
-
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/9.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/10.gif" width="100" />
+</div>
 
 ## ◈ GITHUB STATS DEEP DIVE
 
