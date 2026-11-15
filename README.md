@@ -55,8 +55,15 @@ const keerthiga = {
 ```
 
 </td>
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthi-181105&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_radius=12&rank_icon=github" width="100%"/> 
-<img src="https://streak-stats.demolab.com/?user=Keerthi-181105&theme=github-dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&border_radius=12&mode=daily" width="100%" alt="GitHub Streak"/>
+<td width="38%" valign="top">
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Keerthi-181105&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 </td>
 </tr>
